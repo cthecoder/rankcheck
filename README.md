@@ -1,3 +1,3 @@
 # rankcheck
-a little python3 app to retrieve ans store Amazon book rank data.
+a little python3 app to retrieve and store Amazon book rank data.
 
