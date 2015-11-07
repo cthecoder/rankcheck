@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="cp1252"?>
+<data>
+	<book>
+		<author_name>Christoph Poschenrieder</author_name>
+		<title>Mauersegler</title>
+		<format>Hardcover</format>
+		<url_isbn>Mauersegler-Christoph-Poschenrieder/dp/3257069340</url_isbn>
+	</book>
+	<book>
+		<author_name>Christoph Poschenrieder</author_name>
+		<title>Die Welt ist im Kopf</title>
+		<format>Taschenbuch</format>
+		<url_isbn>Die-Welt-ist-Kopf-detebe/dp/3257240864</url_isbn>
+	</book>
+	<book>
+		<author_name>Christoph Poschenrieder</author_name>
+		<title>Das Sandkorn</title>
+		<format>Hardcover</format>
+		<url_isbn>Das-Sandkorn-Christoph-Poschenrieder/dp/3257068867</url_isbn>
+	</book>
+	<book>
+		<author_name>Christoph Poschenrieder</author_name>
+		<title>Das Sandkorn</title>
+		<format>Taschenbuch</format>
+		<url_isbn>Das-Sandkorn-detebe-Christoph-Poschenrieder/dp/3257243251</url_isbn>
+	</book>
+	<book>
+		<author_name>Christoph Poschenrieder</author_name>
+		<title>Die Welt ist im Kopf</title>
+		<format>Hardcover</format>
+		<url_isbn>Die-Welt-ist-im-Kopf/dp/3257067410</url_isbn>
+	</book>
+</data>
